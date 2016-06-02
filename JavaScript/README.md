@@ -1,9 +1,5 @@
 
-Other Style Guides
- - [ES5](es5/)
- - [React](react/)
- - [CSS & Sass](https://github.com/airbnb/css)
- - [Ruby](https://github.com/airbnb/ruby)
+JavaScript Style Guides
 
 ## Table of Contents
 

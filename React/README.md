@@ -1,1 +1,1 @@
-STYLE GUIDE IN PROGRESS
+React Style Guides in progress
